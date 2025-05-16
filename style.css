@@ -180,7 +180,7 @@ header .container {
 
 /* ====== HERO SECTION ====== */
 .hero-section {
-    background: linear-gradient(rgba(0, 105, 107, 0.7), rgba(0, 61, 81, 0.7)), url('img/fondo1.png') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 105, 107, 0.7), rgba(0, 61, 81, 0.7)), url('img/fondo6.png') no-repeat center center/cover;
     color: var(--color-texto-claro);
     min-height: calc(100vh - 83px); 
     display: flex; 
